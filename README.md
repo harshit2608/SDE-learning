@@ -40,8 +40,8 @@ This section have hte information about languages.
 
 ### C++ :
 
-- [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/Cpp_reference.pdf)
-- [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+- [C++ Cheat Sheet](https://github.com/harshit2608/SDE-learning/blob/main/extras/cheat%20sheets/Cpp_reference.pdf)
+- [STL Cheat Sheet](https://github.com/harshit2608/SDE-learning/blob/main/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
 
   <br/>
 
