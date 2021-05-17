@@ -76,34 +76,31 @@ This section have hte information about languages.
   - [ ] [Interfaces in C++ (Pure Virtual Functions)](https://www.youtube.com/watch?v=UWAdd13EfM8&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=29)
   - [ ] [Visibility](https://www.youtube.com/watch?v=6OVQ8nh3KP0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=30)
   - [ ] [Arrays in C++](https://www.youtube.com/watch?v=ENDaJi08jCU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=31)
-  - [ ] [](https://www.youtube.com/watch?v=ijIxcB9qjaU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=32)
+  - [ ] [How Strings Work in C++ (and how to use them)](https://www.youtube.com/watch?v=ijIxcB9qjaU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=32)
   - [ ] [String Literals in C++](https://www.youtube.com/watch?v=FeHZHF0f2dw&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33)
   - [ ] [CONST in C++](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=34)
-  - [ ] [How C++ Works]()
-  - [ ] [How C++ Works]()
+  - [ ] [The Mutable Keyword in C++](https://www.youtube.com/watch?v=bP9z3H3cVMY&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=35)
+  - [ ] [Member Initializer Lists in C++ (Constructor Initializer List)](https://www.youtube.com/watch?v=1nfuYMXjZsA&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=36)
+  - [ ] [Ternary Operators in C++ (Conditional Assignment)](https://www.youtube.com/watch?v=ezqsL-st8qg&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=37)
+  - [ ] [How to CREATE/INSTANTIATE OBJECTS in C++](https://www.youtube.com/watch?v=Ks97R1knQDY&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=38)
+  - [ ] [The NEW Keyword in C++](https://www.youtube.com/watch?v=NUZdUSqsCs4&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=39)
+  - [ ] [Implicit Conversion and the Explicit Keyword in C++](https://www.youtube.com/watch?v=Rr1NX1lH3oE&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=40)
+  - [ ] [OPERATORS and OPERATOR OVERLOADING in C++](https://www.youtube.com/watch?v=mS9755gF66w&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=41)
+  - [ ] [The "this" keyword in C++](https://www.youtube.com/watch?v=Z_hPJ_EhceI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=42)
+  - [ ] [Object Lifetime in C++ (Stack/Scope Lifetimes)](https://www.youtube.com/watch?v=iNuTwvD6ciI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=43)
+  - [ ] [SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)](https://www.youtube.com/watch?v=UOB7-B2MfwA&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=44)
+  - [ ] [Copying and Copy Constructors in C++](https://www.youtube.com/watch?v=BvR1Pgzzr38&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=45)
+  - [ ] [The Arrow Operator in C++](https://www.youtube.com/watch?v=4p3grlSpWYA&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=46)
+  - [ ] [Dynamic Arrays in C++ (std::vector)](https://www.youtube.com/watch?v=PocJ5jXv8No&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=47)
+  - [ ] [Optimizing the usage of std::vector in C++](https://www.youtube.com/watch?v=HcESuwmlHEY&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=48)
+  - [ ] [Using Libraries in C++ (Static Linking)](https://www.youtube.com/watch?v=or1dAmUO8k0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=49)
+  - [ ] [Using Dynamic Libraries in C++](https://www.youtube.com/watch?v=pLy69V2F_8M&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=50)
+  - [ ] [Making and Working with Libraries in C++ (Multiple Projects in Visual Studio)](https://www.youtube.com/watch?v=Wt4dxDNmDA8&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=51)
+  - [ ] [How to Deal with Multiple Return Values in C++](https://www.youtube.com/watch?v=3cm0VckC8q0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=53)
+  - [ ] [Templates in C++](https://www.youtube.com/watch?v=I-hZkUa9mIs&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=54)
+  - [ ] [Stack vs Heap Memory in C++](https://www.youtube.com/watch?v=wJ1L2nSIV1s&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=55)
+  - [ ] [Macros in C++](https://www.youtube.com/watch?v=j3mYki1SrKE&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=56)
 
-## Data Structures
+## Data Structures & Algorithms
 
-This section have infomation regarding data structues.
-
-## Algorithms
-
-This section have information regarding algorithms.
-
-- [ ] Arrays
-
-  - [ ] [Kadane's Algorithm]()
-  - [ ] [Window Sliding Technique]()
-  - [ ] [Prefix Sum]()
-  - [ ] []()
-
-- [ ] Maths
-  - [ ] Chicken McNugget Theorem
-
-## API's
-
-This section have information regarding API'
-
-### OPENGL
-
-### Vulkan
+[DSA](resources/DSA.md)
